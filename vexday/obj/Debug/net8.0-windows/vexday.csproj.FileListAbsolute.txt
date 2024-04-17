@@ -14,3 +14,4 @@ C:\Users\ezima\Desktop\vexday\vexday\obj\Debug\net8.0-windows\refint\vexday.dll
 C:\Users\ezima\Desktop\vexday\vexday\obj\Debug\net8.0-windows\vexday.pdb
 C:\Users\ezima\Desktop\vexday\vexday\obj\Debug\net8.0-windows\vexday.genruntimeconfig.cache
 C:\Users\ezima\Desktop\vexday\vexday\obj\Debug\net8.0-windows\ref\vexday.dll
+C:\Users\ezima\Desktop\vexday\vexday\obj\Debug\net8.0-windows\vexday.sourcelink.json
